@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-06-09 21:05+0530\n"
+"PO-Revision-Date: 2023-06-09 21:15+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3\n"
+"X-Poedit-Basepath: .\n"
+
+#: comments-disclaimer.php:37
+msgid "Comments Disclaimer Plugin"
+msgstr "Comments Disclaimer Plugin"
+
+#: comments-disclaimer.php:38
+msgid "Comments Disclaimer"
+msgstr "Comments Disclaimer"
+
+#: comments-disclaimer.php:48
+msgid "Settings"
+msgstr "Settings"
+
+#: comments-disclaimer.php:57 comments-disclaimer.php:77
+msgid "Comments Disclaimer Settings"
+msgstr "Comments Disclaimer Settings"
+
+#: comments-disclaimer.php:63
+msgid "Note: This process is irreversible. Can be used only once"
+msgstr "Note: This process is irreversible. Can be used only once"
+
+#: comments-disclaimer.php:81
+msgid ""
+"For all posts where comments are enabled, the above setting will add the "
+"disclaimer content, right above the comments form."
+msgstr ""
+"For all posts where comments are enabled, the above setting will add the "
+"disclaimer content, right above the comments form."
+
+#: comments-disclaimer.php:82
+msgid ""
+"* You can individually continue enabling / disabling the setting inside the "
+"Post Editor."
+msgstr ""
+"* You can individually continue enabling / disabling the setting inside the "
+"Post Editor."
+
+#: comments-disclaimer.php:83
+msgid ""
+"* If you want to remove the disclaimer from all the posts, simply delete "
+"this plugin."
+msgstr ""
+"* If you want to remove the disclaimer from all the posts, simply delete "
+"this plugin."
+
+#: comments-disclaimer.php:137
+msgid "Comment Disclaimer"
+msgstr "Comment Disclaimer"
+
+#: comments-disclaimer.php:147
+msgid "Display Comment Disclaimer"
+msgstr "Display Comment Disclaimer"
+
+#: comments-disclaimer.php:178
+msgid ""
+"Disclaimer: The comments section is a public platform. The views expressed "
+"in the comments section belong to the individual commenters and do not "
+"necessarily reflect the official policy or position of the site or its "
+"authors. The site and its authors disclaim any liability for the comments "
+"posted."
+msgstr ""
+"Disclaimer: The comments section is a public platform. The views expressed "
+"in the comments section belong to the individual commenters and do not "
+"necessarily reflect the official policy or position of the site or its "
+"authors. The site and its authors disclaim any liability for the comments "
+"posted."
+
+#: comments-disclaimer.php:180
+msgid "Keep the comment section civil, focussed and respectful."
+msgstr "Keep the comment section civil, focussed and respectful."
